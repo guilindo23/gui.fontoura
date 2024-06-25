@@ -27,3 +27,7 @@ body{
 .menu-checkbox:checked ~ .menu-lista{
     display: block;
 }
+.lista-item{
+    background-color: white;
+    padding: 1em;
+}
